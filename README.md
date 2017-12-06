@@ -4,7 +4,7 @@ This code was used for the analysis in the story,["How the Cook County Assessor 
 
 Methodology for this project can be found [here.](https://projects.propublica.org/graphics/the-tax-divide-analysis)
 
-Data can be found in the ProPublica Data store [here.](LINK HERE)
+Data can be found in the ProPublica Data store [here.](https://www.propublica.org/datastore/dataset/cook-county-commercial-property-tax-assessments)
 
 The scripts used for this project are all R scripts that can be run in R Studio. 
 
