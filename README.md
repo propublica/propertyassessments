@@ -2,7 +2,7 @@
 
 This code was used for the analysis in the story,["How the Cook County Assessor Failed Taxpayers."](https://features.propublica.org/the-tax-divide/cook-county-commercial-and-industrial-property-tax-assessments/)
 
-Methodology for this project can be found [here.](https://projects.propublica.org/graphics/the-tax-divide-analysis) Each analysis has a methodology and results section in the full methodology.   
+Methodology for this project can be found [here.](https://projects.propublica.org/graphics/the-tax-divide-analysis)
 
 Data can be found in the ProPublica Data store [here.](LINK HERE)
 
