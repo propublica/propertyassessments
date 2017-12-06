@@ -1,8 +1,8 @@
-How We Analyzed Commercial and Industrial Property Assessments in Chicago and Cook County
+#How We Analyzed Commercial and Industrial Property Assessments in Chicago and Cook County
 
 This code was used for the analysis in the story,["How the Cook County Assessor Failed Taxpayers."](https://features.propublica.org/the-tax-divide/cook-county-commercial-and-industrial-property-tax-assessments/)
 
-To examine the fairness and accuracy of commercial and industrial property assessments under Cook County Assessor Joseph Berrios, ProPublica Illinois and the Chicago Tribune conducted three separate analyses:
+##To examine the fairness and accuracy of commercial and industrial property assessments under Cook County Assessor Joseph Berrios, ProPublica Illinois and the Chicago Tribune conducted three separate analyses:
 
 - An examination of unchanged assessor’s initial valuations over multiple reassessment periods
 
