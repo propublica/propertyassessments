@@ -1,4 +1,4 @@
-# First pass analysis.R
+# First-pass analysis.R
 # By: Jason Grotto & Sandhya Kambhampati 
 # ProPublica Illinois
 # Aug. 29, 2017
@@ -103,9 +103,6 @@ sum_not_assessing <- ddply(not_assessing_final_geo_class, "TRI", function(x)
 # percent of our universe. More than 9,000 PINs had the same values over three
 # triennial periods, which are the base assessement values over nine years. 
 # That's 23 percent of our universe.
-#
-# These findings are particularly odd considering the commercial and industrial
-# real estate markets were highly volatile during this period.
 #//////////////////////////////////////////////////////////////////////////////
 
 # rank non-reassessments by class descriptions
@@ -118,4 +115,4 @@ rank_class <- arrange(ddply(not_assessing_final_geo_class, "majclass", function(
 
 #//////////////////////////////////////////////////////////////////////////////
 # NOTE: This shows most of the not-assessed PINs are commercial properties.
-#//////////////////////////////////////////////////////////////////////////////
+#/////////////////////////////////////////////////////////////////////////////
